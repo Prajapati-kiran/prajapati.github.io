@@ -1,0 +1,76 @@
+#box1{
+	padding: 0;
+}
+#navItem{
+	color: white;
+}
+#collapseNavbar{
+	display: none;
+}
+#menu-text-box{
+	margin: 10px;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+@media (min-width: 576px) {
+   .navbar-expand-sm .navbar-collapse{
+       display: none !important;
+   }
+}
+#chicken-heading{
+	padding: 10px;
+	color: black;
+	text-align: center;
+}
+#chicken-box{
+	background-color: dimgray;
+	margin-bottom: 20px;
+	height: 250px;
+	overflow: auto;
+}
+#chicken-para{
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+	color: #0df705;
+	overflow: auto;
+}
+#mutton-para{
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+	color: #0df705;
+	overflow: auto;
+}
+#beef-para{
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+	color: #0df705;
+	overflow: auto;
+}
+#mutton-heading{
+	padding: 10px;
+	color: black;
+	text-align: center;
+	overflow: auto;
+}
+#beef-heading{
+	padding: 10px;
+	color: black;
+	text-align: center;
+	overflow: auto;
+}
+#mutton-box{
+	height: 250px;
+	margin-bottom: 20px;
+	background-color: dimgray;
+	overflow: auto;
+}
+#beef-box{
+	height: 250px;
+	background-color: dimgray;
+	margin-bottom: 100px;
+	overflow: auto;
+}
