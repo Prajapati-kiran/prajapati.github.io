@@ -26,4 +26,6 @@ Check out the live demo [second assignment](https://prajapati-kiran.github.io/pr
 
 - CSS3: Styles and layout adjustments are implemented using CSS3, with a focus on media queries for responsiveness.
 
+- Bootstrap : Styles and layout adjustments are implemented using bootstap, with a focus on navigation bar for responsiveness.
+
 
